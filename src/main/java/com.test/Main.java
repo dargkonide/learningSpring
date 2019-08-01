@@ -15,6 +15,7 @@ public class Main {
         HelloService helloService =
                 (HelloService) context.getBean(Kain.class);
         helloService.hello();
+        helloService.sayHistory();
 
     }
 
