@@ -13,7 +13,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring.ver>5.1.8.RELEASE</spring.ver>
+        <spring.ver>5.2.22.RELEASE</spring.ver>
     </properties>
 
     <dependencies>
